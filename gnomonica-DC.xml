@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:dc ="http://purl.org/dc/elements/1.1/" xml:id="OROLOGI MECCANICI">
+
+  <item xml:id="OROLOGI MECCANICI-TESTO">
+    
+    <dc:title>Gnomonica</dc:title>
+    <dc:creator ref="https://it.wikipedia.org/wiki/Giuseppe_Maria_Figatelli">Giovanni Maria Figatelli</dc:creator>
+    <dc:date type="subject">1675</dc:date>
+    <dc:subject>Gnomonica, Orologi Solari, Orologi</dc:subject>
+    <dc:description xml:lang="it">
+	Trattato per la costruzione di orologi solari
+    </dc:description>
+    <dc:publisher>Orologi Meccanici Rinascimentali</dc:publisher>
+    <dc:contributor>Silvia Bazzoni</dc:contributor>
+    <dc:type>Testo</dc:type>
+    <dc:format>text,html,jpg</dc:format>
+    <dc:identifier>METTERE L'URL DELLA RISORSA CHE ABBIAMO PRODOTTO, METTI QUELLO DI GITHUB</dc:identifier>
+    <dc:source>urn:oclc:record:1052529274</dc:source>
+    <dc:relation>https://archive.org/details/rettalineagnomon00figa/page/16/mode/2up</dc:relation>
+    <dc:provenance> The Wellcome Library, London</dc:provenance>
+    <dc:language>IT</dc:language>
+    <dc:coverage>1500/1600</dc:coverage>
+    <dc:rights>Copyright 2021 Silvia Bazzoni - CC-BY, Creative Commons Attribuzione 4.0 Internazionale</dc:rights>
+  
+  </item>
+
+</collection>
+

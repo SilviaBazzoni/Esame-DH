@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+  <fileDesc>
+  <titleStmt>
+   <title>Realizzazione digitale di 'Gnomonica' di Giovanni Maria Figatelli</title>
+  <respStmt>
+   <resp>Sviluppato da:</resp>
+   <name xml:id="SB">Silvia Bazzoni</name>
+   <resp>Digitalizato da:</resp>
+   <name>the Internet Archive</name>
+  </respStmt>
+  </titleStmt>
+  <publicationStmt>
+   <publisher>Orologi meccanici Rinascimentali</publisher>
+   <date>2021</date>
+   <availability>
+   <p>Copyright 2021, Silvia Bazzoni</p>
+   <p>Fruizione libera</p>
+   </availability>
+   <licence>CC-BY, Creative Commons Attribuzione 4.0 Internazionale</licence>
+  </publicationStmt>
+  <sourceDesc>
+   <p>Internet Archive</p>
+   <bibl>
+   <title>Gnomonica</title>
+   <date>1675</date>
+   </bibl>
+  </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+	<body>
+	<head>Come si trovi la Linea Meridionale ne' Piani Horizontali: l'altezza del Polo; e la declinatione del Muro</head>
+	Sopra d'un piano Horizontale, ben livellato per ogni verso; si descrivono più circoli fuori del centro (per maggior commodità) si pianti uno 
+    <term type="tool" resp="#SB">Stilo</term> 
+    di longhezza ragioneuole; e basta, che la punta perpendicolarmente cada nel centro. Per ciò fare, s'opera come infegno nel fine del seguente Capitolo. Io l'aggiusto prestissimo così. Metto (per esempio) il 
+    <term type="tool" resp="#SB">Quadrante</term>
+    dietro la linea L.P. coll'angolo nel centro; e mentre sta così, tiro lo Stilo colla metà della punta sotto l'altro lato del Quadrante; perchè son certo, che perpendicolarmente cade nel centro. Volto poi il 
+    <term type="tool" resp="#SB">Quadrante</term>
+    sopra la linea M.T. con l'angolo pure nel centro; e poi opero come sopra; e occorrendo il bisogno, si reitera l'operazione. Aggiustato lo 
+    <term type="tool" resp="#SB">Stilo</term>, 
+    s'osserva l'ombra della punta, quando arriva sopra alcuno de' circoli deferitti, tanto avanti, quanto dopo Mezzodì, e ivi si fa un punto ; come A. B. e divisa la distanza di questi due punti per metà tanto di sotto, quanto di sopra; per li due punti della divisione si tira la 
+    <name type="line" resp="#SB">Meridiana</name>,
+     qual passa per lo centro : come M.T. Tirando mò la L.P. perpendicolare alla
+    <name type="line" resp="#SB">Meridiana</name>:
+     questa linea si chiama 
+     <name type="line" resp="#SB">Horizonte</name>.
+    Verticale primario, Levante, e Ponente.
+    Più sbrigatamente trovarete la 
+    <name type="line" resp="#SB">Meridiana</name>
+    in questo modo. Nel giorno dell'
+    <name type="" resp="#SB">Equinottio</name>
+    habbiate impronto un piano bene Horizontale. In esso vi siano 
+    <term type="tool" resp="#SB">Stilo</term> 
+    senz'ordine, e alla peggio; basta, che l'ombra della punta possa traversare detto piano. Fatto questo; nel sudetto giorno fate più punti in diversi tempi ove arriva l'ombra dello 
+    <term type="tool" resp="#SB">Stilo</term>;
+    per i quali punti tirarete una linea retta;perche tutti battono in filla.Hor dico • Se à questa linea ne tirarere un’ altra perpendicolare , overo in isquadro essa farà la ricercata 
+    <name type="line" resp="#SB">Meridiana</name>.
+  </body>
+</text>
+</TEI>

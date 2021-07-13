@@ -1,0 +1,157 @@
+#titolo{
+
+	background-color: #d9d9d9;
+    border-bottom-style: outset;
+
+}
+
+
+#titolo-pagina {
+
+	font-family: 'Rajdhani', sans-serif;
+	font-size:35px;
+
+}
+
+h4,#filtri{
+	font-family: 'Rajdhani', sans-serif;
+}
+
+main {
+
+	background-color: #d9d9d9;
+}
+
+#breadcrumb {
+
+	margin-top:25px;
+	background-color:#404040;
+	width: 300px;
+    background-color: 
+}
+
+.card {
+
+	margin-top:30px;
+	box-shadow: 10px 10px 5px grey;
+	height:770px;
+
+}
+
+.img-card {
+	height:300px;
+}
+
+#img-card {
+	height:450px;
+}
+
+#card-orologi{
+	height:850px;
+}
+
+#filtri {
+
+	margin-bottom: 10px;
+}
+
+#container-filtri {
+	
+	margin-top: 30px;
+	padding-left:10px;
+	padding-top:20px;
+	padding-right:40px;
+	padding-bottom:20px;
+	background-color:;
+}
+
+
+#pagine {
+
+   display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+h4{
+	color:grey;
+}
+
+h2{
+	font-size:30px;
+	color:grey;
+	font-family: 'Rajdhani', sans-serif;
+	justify-content: center;
+	margin-top:30px;
+	margin-right:30px;
+}
+
+#h2-ritratti{
+	margin-top:;
+
+}
+
+#h2-orologi {
+	margin-top:70px;
+
+
+}
+
+#button{
+	margin-top:;
+	margin-bottom:10px;
+}
+ 
+
+#card-correlati{
+	margin-left:90px;
+	margin-top:1px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top:10px;
+  margin-bottom:50px;
+}
+
+td, th {
+  border: 1px solid grey;
+  text-align: left;
+  padding: 8px;
+}
+
+#button-metadati {
+	margin-top:50px;
+}
+
+#box {
+	margin-left:90px;
+	font-family: 'Rajdhani', sans-serif;
+	font-size:20px;
+	color:grey;
+	border:1px solid gray;
+	padding:10px;
+
+}
+
+#box-correlati {
+	margin-top:30px;
+}
+
+#footer {
+	color:white;
+	padding-top:20px;
+	word-spacing: 10px;
+
+}
+
+
+
+
+#p-footer {
+	line-height: 1.6;
+}
+ 
+

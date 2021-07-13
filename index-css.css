@@ -1,0 +1,57 @@
+#titolo-pagina {
+
+	font-family: 'Rajdhani', sans-serif;
+	font-size:35px;
+
+}
+
+
+main {
+
+	background-color: #000000;
+}
+
+#card, #jumbotron {
+      
+    margin-top: 50px ;
+    margin-bottom: 50px ;
+
+}
+
+.card {
+	width: 300px;
+}
+
+#jumbotron{
+	padding: 40px;
+	text-align: justify-all;
+	height:900px;
+
+}
+
+p {
+	text-align: justify;
+}
+
+#section-cataloghi {
+
+	background-color:#666666 ;
+}
+
+#card-esplorazione {
+
+  text-align: justify;
+}
+
+#footer {
+	color:white;
+	padding-top:20px;
+	word-spacing: 10px;
+	line-height: 1.6;
+
+}
+
+
+#p-footer {
+	line-height: 1.6;
+}
